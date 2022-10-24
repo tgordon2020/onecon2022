@@ -1,0 +1,49 @@
+  1     0018.0a92.2531     DYNAMIC     Gi1/0/1
+  1     b00c.d169.2682     DYNAMIC     Gi1/0/2
+  1     00c0.b791.3483     DYNAMIC     Gi1/0/3
+  1     0020.6b63.8333     DYNAMIC     Gi1/0/4
+  6     68ff.7b65.9632     DYNAMIC     Gi1/0/5
+  7     e47d.bd20.4555     DYNAMIC     Gi1/0/6
+  8     0021.b730.9831     DYNAMIC     Gi1/0/7
+ 10     a4c3.f055.7621     DYNAMIC     Gi1/0/8
+ 25     0018.0a89.3803     DYNAMIC     Gi1/0/9
+ 12     b00c.d123.8111     DYNAMIC     Gi1/0/10
+ 28     00c0.b785.7982     DYNAMIC     Gi1/0/11
+100     0020.6b50.2188     DYNAMIC     Gi1/0/12
+103     68ff.7b35.1759     DYNAMIC     Gi1/0/13
+  2     e47d.bd45.8854     DYNAMIC     Gi1/0/14
+  3     0021.b719.5464     DYNAMIC     Gi1/0/15
+  4     a4c3.f019.2725     DYNAMIC     Gi1/0/16
+  7     0018.0a80.5657     DYNAMIC     Gi1/0/17
+ 25     b00c.d126.4335     DYNAMIC     Gi1/0/18
+ 28     00c0.b717.8446     DYNAMIC     Gi1/0/19
+100     0020.6b50.3118     DYNAMIC     Gi1/0/20
+103     68ff.7b12.4531     DYNAMIC     Gi1/0/21
+  1     e47d.bd24.7069     DYNAMIC     Gi1/0/22
+  3     0021.b737.2908     DYNAMIC     Gi1/0/23
+ 12     a4c3.f071.6640     DYNAMIC     Gi1/0/24
+
+Internet    172.16.1.124      16    0018.0a92.2531     ARPA    VLAN1
+Internet    172.16.1.194      163   b00c.d169.2682     ARPA    VLAN1
+Internet    172.16.1.187      216   00c0.b79.3483      ARPA    VLAN1
+Internet    172.16.1.112      290   0020.6b63.8333     ARPA    VLAN1
+Internet    172.16.6.37       73    68ff.7b65.9632     ARPA    VLAN6
+Internet    172.16.7.239      125   e47d.bd20.4555     ARPA    VLAN7
+Internet    172.16.8.135      85    0021.b730.9831     ARPA    VLAN8
+Internet    172.16.10.101     63    a4c3.f055.7621     ARPA    VLAN10
+Internet    172.16.25.157     180   0018.0a89.3803     ARPA    VLAN25
+Internet    172.16.12.223     256   b00c.d123.8111     ARPA    VLAN12
+Internet    172.16.28.192     12    00c0.b785.7982     ARPA    VLAN28
+Internet    172.16.100.87     274   0020.6b50.2188     ARPA    VLAN100
+Internet    172.16.103.72     79    68ff.7b35.1759     ARPA    VLAN103
+Internet    172.16.2.240      236   e47d.bd45.8854     ARPA    VLAN2
+Internet    172.16.3.238      118   0021.b719.5464     ARPA    VLAN3
+Internet    172.16.4.51       171   a4c3.f019.2725     ARPA    VLAN4
+Internet    172.16.7.171      98    0018.0a80.5657     ARPA    VLAN7
+Internet    172.16.25.232     28    b00c.d126.4335     ARPA    VLAN25
+Internet    172.16.28.209     233   00c0.b717.8446     ARPA    VLAN28
+Internet    172.16.100.99     268   0020.6b50.3118     ARPA    VLAN100
+Internet    172.16.103.86     291   68ff.7b12.453      ARPA    VLAN103
+Internet    172.16.1.37       49    e47d.bd24.7069     ARPA    VLAN1
+Internet    172.16.3.109      285   0021.b737.2908     ARPA    VLAN3
+Internet    172.16.12.158     261   a4c3.f071.6640     ARPA    VLAN12
